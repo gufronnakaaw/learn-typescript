@@ -1,0 +1,16 @@
+{
+  "name": "learn-typescript",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "compile": "tsc -w",
+    "watch": "nodemon ./build/advanced-type.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.20",
+    "typescript": "^4.9.3"
+  }
+}
